@@ -1118,3 +1118,597 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.12.16-00.23.18:320][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
 [2023.12.16-00.23.18:351][482]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2023.12.16-00.23.39:002][960]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/BP_Spider.BP_Spider
+[2023.12.16-00.27.48:896][416]LogSlate: Took 0.012048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.16-00.28.51:478][ 29]LogEditorTransaction: Undo Create Reroute Node
+[2023.12.16-00.32.04:828][126]LogEditorTransaction: Undo Add Node
+[2023.12.16-00.34.35:381][619]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.34.35:394][619]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.16-00.34.35:397][619]LogPlayLevel: [PlayLevel] Compiling BP_Spider before play...
+[2023.12.16-00.34.35:413][619]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.34.35:413][619]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.34.35:414][619]LogBlueprint: Warning: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find the function 'IncreaceKills' called from  Increace Kills
+[2023.12.16-00.34.35:481][619]LogPlayLevel: [PlayLevel] Compiling BP_Solider_01 before play...
+[2023.12.16-00.34.35:628][619]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2023.12.16-00.34.35:634][619]LogPlayLevel: PlayLevel: Blueprint regeneration took 239 ms (2 blueprints)
+[2023.12.16-00.34.35:634][619]BlueprintLog: Warning: Blueprint failed to compile:  BP_Spider
+[2023.12.16-00.34.35:637][619]LogCustomDialog: Dialog displayed:
+[2023.12.16-00.34.37:589][619]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.12.16-00.34.40:609][783]LogSlate: Window 'Message Log' being destroyed
+[2023.12.16-00.34.40:625][783]LogSlate: Window 'Message Log' being destroyed
+[2023.12.16-00.34.50:542][364]BlueprintLog: New page: Compile BP_Solider_01
+[2023.12.16-00.34.50:653][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2023.12.16-00.34.53:190][485]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.34.53:210][485]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.34.53:210][485]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.34.53:291][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.12.16-00.34.55:089][586]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.34.55:108][586]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.34.55:108][586]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.34.55:190][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.12.16-00.35.13:374][645]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.35.13:387][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.16-00.35.13:387][645]BlueprintLog: Warning: Blueprint failed to compile:  BP_Spider
+[2023.12.16-00.35.13:388][645]LogCustomDialog: Dialog displayed:
+[2023.12.16-00.35.19:410][645]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.12.16-00.35.19:430][645]PIE: New page: PIE session: Level_1 (16 груд. 2023 р., 02:35:19)
+[2023.12.16-00.35.19:451][645]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2023.12.16-00.35.19:457][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005509s)
+[2023.12.16-00.35.19:459][645]LogAIModule: Creating AISystem for world Level_1
+[2023.12.16-00.35.19:460][645]LogPlayLevel: PIE: World Init took: (0.003067s)
+[2023.12.16-00.35.19:460][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.008872s)
+[2023.12.16-00.35.19:522][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.12.16-00.35.19:523][645]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.12.16-00.35.19:523][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.16-00.35.19:523][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.16-00.35.19:523][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.16-00.35.19:523][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.16-00.35.19:523][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.16-00.35.19:523][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.16-00.35.19:523][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.16-00.35.19:524][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.16-00.35.19:524][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.16-00.35.19:524][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.16-00.35.19:525][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.16-00.35.19:525][645]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.16-00.35.19:529][645]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.16-00.35.19:530][645]LogAudioMixer: Display: 1: FrontRight
+[2023.12.16-00.35.19:560][645]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.12.16-00.35.19:560][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.16-00.35.19:560][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.16-00.35.19:560][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.16-00.35.19:563][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.16-00.35.19:563][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.16-00.35.19:563][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.16-00.35.19:566][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.16-00.35.19:566][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.16-00.35.19:566][645]LogInit: FAudioDevice initialized.
+[2023.12.16-00.35.19:566][645]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_1'.
+[2023.12.16-00.35.19:578][645]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.12.16-00.35.19:582][645]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.12.16-01.35.19
+[2023.12.16-00.35.19:582][645]LogWorld: Bringing up level for play took: 0.004588
+[2023.12.16-00.35.19:584][645]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.12.16-00.35.19:588][645]PIE: Server logged in
+[2023.12.16-00.35.19:590][645]PIE: Play in editor total start time 6,206 seconds.
+[2023.12.16-00.35.19:633][646]LogRenderer: Reallocating scene render targets to support 1192x560 Format 10 NumSamples 1 (Frame:1).
+[2023.12.16-00.35.40:073][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.35.40:073][843]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_1
+[2023.12.16-00.35.40:073][843]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.16-00.35.40:074][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.35.40:084][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.16-00.35.40:089][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.35.40:126][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.16-00.35.40:126][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.35.40:128][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.35.40:132][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.35.40:136][843]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.12.16-00.35.40:154][844]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.12.16-00.35.52:034][489]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.35.52:054][489]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.35.52:054][489]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.35.52:132][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.12.16-00.35.54:483][616]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.35.54:500][616]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.35.54:501][616]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.35.54:580][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.12.16-00.36.13:198][679]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.36.13:212][679]BlueprintLog: Warning: Blueprint failed to compile:  BP_Spider
+[2023.12.16-00.36.13:212][679]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.16-00.36.13:217][679]LogPlayLevel: [PlayLevel] Compiling BP_Solider_01 before play...
+[2023.12.16-00.36.13:236][679]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Pawns\BP_Solider_01.uasset: [Compiler] Variable  Kills  is read-only within this context and cannot be set to a new value
+[2023.12.16-00.36.13:236][679]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Pawns\BP_Solider_01.uasset: [Compiler] Cannot write to const  Target generated from expanding Increment Int
+[2023.12.16-00.36.13:351][679]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2023.12.16-00.36.13:352][679]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2023.12.16-00.36.13:352][679]BlueprintLog: Warning: Blueprint failed to compile:  BP_Solider_01
+[2023.12.16-00.36.13:352][679]LogCustomDialog: Dialog displayed:
+[2023.12.16-00.36.16:703][679]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.12.16-00.36.20:476][886]LogSlate: Window 'Message Log' being destroyed
+[2023.12.16-00.36.20:490][886]LogSlate: Window 'Message Log' being destroyed
+[2023.12.16-00.37.00:316][160]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.37.00:336][160]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.37.00:337][160]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.37.00:420][160]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2023.12.16-00.37.05:495][438]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.37.05:513][438]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.37.05:513][438]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.37.05:596][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.12.16-00.37.26:273][658]BlueprintLog: New page: Compile BP_Solider_01
+[2023.12.16-00.37.26:388][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.12.16-00.37.31:752][956]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.37.31:770][956]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.37.31:770][956]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.37.31:872][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.12.16-00.37.32:470][990]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.37.32:487][990]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.37.32:487][990]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.37.32:566][990]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.12.16-00.37.32:662][994]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.37.32:684][994]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.37.32:684][994]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.37.32:766][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.12.16-00.38.02:954][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.12.16-00.38.02:990][772]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/Level_1_Auto1DE4C3A5B45E420F2461103B6F729E735.tmp' to '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/Autosaves/Game/Level_1_Auto1.umap'
+[2023.12.16-00.38.02:994][772]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_1' took 0.090
+[2023.12.16-00.38.02:994][772]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2023.12.16-00.38.02:995][772]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/BP_Spider] ([2] browsable assets)...
+[2023.12.16-00.38.03:032][772]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Actors/BP_Spider.BP_Spider_C]
+[2023.12.16-00.38.03:051][772]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Spider.BP_Spider]
+[2023.12.16-00.38.03:052][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Spider]
+[2023.12.16-00.38.03:124][772]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/BP_Spider_Auto15632D1EE445B41C5938B02B88708C83C.tmp' to '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/Autosaves/Game/Blueprints/Actors/BP_Spider_Auto1.uasset'
+[2023.12.16-00.38.03:127][772]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Solider_01] ([2] browsable assets)...
+[2023.12.16-00.38.03:164][772]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Solider_01.BP_Solider_01_C]
+[2023.12.16-00.38.03:185][772]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Solider_01.BP_Solider_01]
+[2023.12.16-00.38.03:186][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Solider_01]
+[2023.12.16-00.38.03:286][772]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/BP_Solider_01_Auto1B2C398424C6C6DDB96D21B9A3A161FB9.tmp' to '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/Autosaves/Game/Blueprints/Pawns/BP_Solider_01_Auto1.uasset'
+[2023.12.16-00.38.03:288][772]LogFileHelpers: Auto-saving content packages took 0.294
+[2023.12.16-00.38.10:381][181]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.38.10:398][181]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.38.10:398][181]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.38.10:482][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.12.16-00.38.11:765][249]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.38.11:783][249]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.38.11:784][249]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.38.11:867][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.12.16-00.38.24:618][994]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.38.24:636][994]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.38.24:637][994]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.38.24:718][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.12.16-00.38.27:600][157]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.38.27:613][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.16-00.38.27:613][157]BlueprintLog: Warning: Blueprint failed to compile:  BP_Spider
+[2023.12.16-00.38.27:613][157]LogCustomDialog: Dialog displayed:
+[2023.12.16-00.38.34:356][157]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.12.16-00.38.34:370][157]PIE: New page: PIE session: Level_1 (16 груд. 2023 р., 02:38:34)
+[2023.12.16-00.38.34:422][157]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2023.12.16-00.38.34:428][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005044s)
+[2023.12.16-00.38.34:430][157]LogAIModule: Creating AISystem for world Level_1
+[2023.12.16-00.38.34:430][157]LogPlayLevel: PIE: World Init took: (0.002033s)
+[2023.12.16-00.38.34:430][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.007655s)
+[2023.12.16-00.38.34:495][157]LogUObjectHash: Compacting FUObjectHashTables data took   8.90ms
+[2023.12.16-00.38.34:497][157]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.16-00.38.34:497][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.16-00.38.34:497][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.16-00.38.34:497][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.16-00.38.34:497][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.16-00.38.34:497][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.16-00.38.34:497][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.16-00.38.34:497][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.16-00.38.34:498][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.16-00.38.34:499][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.16-00.38.34:499][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.16-00.38.34:499][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.16-00.38.34:499][157]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.16-00.38.34:502][157]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.16-00.38.34:502][157]LogAudioMixer: Display: 1: FrontRight
+[2023.12.16-00.38.34:544][157]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.12.16-00.38.34:545][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.16-00.38.34:545][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.16-00.38.34:545][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.16-00.38.34:545][157]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.16-00.38.34:546][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.16-00.38.34:546][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.16-00.38.34:547][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.16-00.38.34:547][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.16-00.38.34:547][157]LogInit: FAudioDevice initialized.
+[2023.12.16-00.38.34:547][157]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_1'.
+[2023.12.16-00.38.34:557][157]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.12.16-00.38.34:559][157]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.12.16-01.38.34
+[2023.12.16-00.38.34:560][157]LogWorld: Bringing up level for play took: 0.001363
+[2023.12.16-00.38.34:560][157]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.12.16-00.38.34:565][157]PIE: Server logged in
+[2023.12.16-00.38.34:566][157]PIE: Play in editor total start time 6,957 seconds.
+[2023.12.16-00.38.37:193][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.38.37:193][307]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_1
+[2023.12.16-00.38.37:193][307]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.16-00.38.37:193][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.38.37:203][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.16-00.38.37:208][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.38.37:245][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.38.37:245][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.38.37:247][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.38.37:257][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.12.16-00.38.37:289][308]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.12.16-00.38.50:410][ 86]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.38.50:429][ 86]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.38.50:430][ 86]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.38.50:518][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.12.16-00.38.51:557][146]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.38.51:576][146]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.38.51:576][146]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.38.51:660][146]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.12.16-00.39.18:914][715]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.39.18:932][715]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.39.18:932][715]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.39.19:012][715]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.12.16-00.40.16:007][ 46]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/BP_Spider504CEA1046E4DC6DDA40D291B7FAFD85.tmp' to '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Content/Blueprints/Actors/BP_Spider.uasset'
+[2023.12.16-00.40.16:043][ 46]AssetCheck: New page: Asset Save: BP_Spider
+[2023.12.16-00.40.16:043][ 46]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Spider.BP_Spider
+[2023.12.16-00.40.36:189][198]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.40.36:208][198]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.40.36:208][198]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.40.36:296][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2023.12.16-00.40.39:053][345]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.40.39:071][345]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.40.39:072][345]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.40.39:156][345]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.12.16-00.41.27:903][212]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.41.27:921][212]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.41.27:921][212]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.41.28:005][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.12.16-00.41.41:330][978]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.41.41:350][978]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Could not find a pin for the parameter SpiderHP of DecreaceHP on  Decreace HP
+[2023.12.16-00.41.41:350][978]LogBlueprint: Error: [AssetLog] C:\Users\Hanna\Desktop\SpaceShooter\SpaceShooter_HannaHolovenkina\HannaHolovenkina_3\Content\Blueprints\Actors\BP_Spider.uasset: [Compiler] Pin  Output Get  named Output_Get doesn't match any parameters of function DecreaceHP
+[2023.12.16-00.41.41:430][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2023.12.16-00.44.50:072][824]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.44.50:178][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.12.16-00.45.40:874][702]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.45.40:979][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.12.16-00.45.42:454][779]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.45.42:465][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.16-00.45.42:465][779]PIE: New page: PIE session: Level_1 (16 груд. 2023 р., 02:45:42)
+[2023.12.16-00.45.42:466][779]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2023.12.16-00.45.42:474][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008253s)
+[2023.12.16-00.45.42:476][779]LogAIModule: Creating AISystem for world Level_1
+[2023.12.16-00.45.42:476][779]LogPlayLevel: PIE: World Init took: (0.002346s)
+[2023.12.16-00.45.42:477][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.010861s)
+[2023.12.16-00.45.42:523][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2023.12.16-00.45.42:524][779]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.16-00.45.42:524][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.16-00.45.42:524][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.16-00.45.42:524][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.16-00.45.42:524][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.16-00.45.42:524][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.16-00.45.42:524][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.16-00.45.42:524][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.16-00.45.42:524][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.16-00.45.42:525][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.16-00.45.42:525][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.16-00.45.42:525][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.16-00.45.42:525][779]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.16-00.45.42:528][779]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.16-00.45.42:528][779]LogAudioMixer: Display: 1: FrontRight
+[2023.12.16-00.45.42:555][779]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.12.16-00.45.42:555][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.16-00.45.42:555][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.16-00.45.42:555][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.16-00.45.42:556][779]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.16-00.45.42:556][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.16-00.45.42:556][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.16-00.45.42:558][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.16-00.45.42:558][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.16-00.45.42:558][779]LogInit: FAudioDevice initialized.
+[2023.12.16-00.45.42:558][779]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_1'.
+[2023.12.16-00.45.42:569][779]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.12.16-00.45.42:570][779]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.12.16-01.45.42
+[2023.12.16-00.45.42:571][779]LogWorld: Bringing up level for play took: 0.001685
+[2023.12.16-00.45.42:572][779]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.12.16-00.45.42:577][779]PIE: Server logged in
+[2023.12.16-00.45.42:578][779]PIE: Play in editor total start time 0,115 seconds.
+[2023.12.16-00.45.51:073][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.45.51:073][282]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_1
+[2023.12.16-00.45.51:073][282]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.16-00.45.51:074][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.45.51:088][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.16-00.45.51:093][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.45.51:131][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.45.51:132][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.45.51:133][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.45.51:141][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.12.16-00.45.51:173][283]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.12.16-00.45.54:101][445]LogRenderer: Reallocating scene render targets to support 1192x672 Format 10 NumSamples 1 (Frame:1).
+[2023.12.16-00.46.07:688][192]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.46.07:850][192]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2023.12.16-00.46.09:183][258]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.46.09:198][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.16-00.46.09:199][258]PIE: New page: PIE session: Level_1 (16 груд. 2023 р., 02:46:09)
+[2023.12.16-00.46.09:199][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2023.12.16-00.46.09:205][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006574s)
+[2023.12.16-00.46.09:210][258]LogAIModule: Creating AISystem for world Level_1
+[2023.12.16-00.46.09:210][258]LogPlayLevel: PIE: World Init took: (0.004662s)
+[2023.12.16-00.46.09:210][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.011512s)
+[2023.12.16-00.46.09:266][258]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2023.12.16-00.46.09:267][258]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.12.16-00.46.09:267][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.16-00.46.09:267][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.16-00.46.09:268][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.16-00.46.09:268][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.16-00.46.09:268][258]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.16-00.46.09:268][258]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.16-00.46.09:268][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.16-00.46.09:268][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.16-00.46.09:268][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.16-00.46.09:268][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.16-00.46.09:268][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.16-00.46.09:268][258]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.16-00.46.09:273][258]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.16-00.46.09:273][258]LogAudioMixer: Display: 1: FrontRight
+[2023.12.16-00.46.09:303][258]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.12.16-00.46.09:303][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.16-00.46.09:303][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.16-00.46.09:303][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.16-00.46.09:305][258]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.16-00.46.09:305][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.16-00.46.09:305][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.16-00.46.09:307][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.16-00.46.09:308][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.16-00.46.09:308][258]LogInit: FAudioDevice initialized.
+[2023.12.16-00.46.09:308][258]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_1'.
+[2023.12.16-00.46.09:320][258]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.12.16-00.46.09:322][258]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.12.16-01.46.09
+[2023.12.16-00.46.09:323][258]LogWorld: Bringing up level for play took: 0.002580
+[2023.12.16-00.46.09:324][258]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.12.16-00.46.09:331][258]PIE: Server logged in
+[2023.12.16-00.46.09:333][258]PIE: Play in editor total start time 0,135 seconds.
+[2023.12.16-00.46.17:373][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.46.17:373][733]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_1
+[2023.12.16-00.46.17:373][733]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.16-00.46.17:373][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.46.17:386][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.16-00.46.17:391][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.46.17:427][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.46.17:428][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.46.17:429][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.46.17:437][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.12.16-00.46.17:470][734]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.12.16-00.46.44:256][ 74]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Enemy_Great_Spider/Animations/AB_Spider.AB_Spider
+[2023.12.16-00.46.44:287][ 74]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2023.12.16-00.46.44:310][ 74]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.12.16-00.46.44:519][ 74]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.12.16-00.46.44:685][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.12.16-00.46.44:700][ 74]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2023.12.16-00.46.46:518][ 74]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.12.16-00.48.27:012][379]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Enemy_Great_Spider/Animations/ExoGame_Greater_Spider_Death.ExoGame_Greater_Spider_Death
+[2023.12.16-00.48.31:844][577]BlueprintLog: New page: Compile AB_Spider
+[2023.12.16-00.48.32:060][577]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2023.12.16-00.48.48:950][994]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.48.48:967][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.16-00.48.48:967][994]PIE: New page: PIE session: Level_1 (16 груд. 2023 р., 02:48:48)
+[2023.12.16-00.48.48:967][994]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2023.12.16-00.48.48:976][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008439s)
+[2023.12.16-00.48.48:978][994]LogAIModule: Creating AISystem for world Level_1
+[2023.12.16-00.48.48:979][994]LogPlayLevel: PIE: World Init took: (0.002230s)
+[2023.12.16-00.48.48:979][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.010973s)
+[2023.12.16-00.48.49:055][994]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2023.12.16-00.48.49:058][994]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.12.16-00.48.49:058][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.16-00.48.49:058][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.16-00.48.49:058][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.16-00.48.49:058][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.16-00.48.49:058][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.16-00.48.49:058][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.16-00.48.49:058][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.16-00.48.49:058][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.16-00.48.49:058][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.16-00.48.49:058][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.16-00.48.49:058][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.16-00.48.49:059][994]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.16-00.48.49:062][994]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.16-00.48.49:062][994]LogAudioMixer: Display: 1: FrontRight
+[2023.12.16-00.48.49:088][994]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.12.16-00.48.49:088][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.16-00.48.49:089][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.16-00.48.49:089][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.16-00.48.49:090][994]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.16-00.48.49:090][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.16-00.48.49:090][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.16-00.48.49:092][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.16-00.48.49:092][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.16-00.48.49:092][994]LogInit: FAudioDevice initialized.
+[2023.12.16-00.48.49:092][994]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_1'.
+[2023.12.16-00.48.49:104][994]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.12.16-00.48.49:106][994]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.12.16-01.48.49
+[2023.12.16-00.48.49:106][994]LogWorld: Bringing up level for play took: 0.001551
+[2023.12.16-00.48.49:107][994]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.12.16-00.48.49:112][994]PIE: Server logged in
+[2023.12.16-00.48.49:113][994]PIE: Play in editor total start time 0,147 seconds.
+[2023.12.16-00.48.59:233][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.48.59:233][572]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_1
+[2023.12.16-00.48.59:233][572]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.16-00.48.59:233][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.48.59:243][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.16-00.48.59:250][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.48.59:302][572]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.16-00.48.59:303][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.48.59:305][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.48.59:309][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.48.59:315][572]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2023.12.16-00.48.59:348][573]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.12.16-00.49.06:821][919]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.49.06:837][919]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.16-00.49.06:840][919]LogPlayLevel: [PlayLevel] Compiling AB_Spider before play...
+[2023.12.16-00.49.06:969][919]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2023.12.16-00.49.06:970][919]LogPlayLevel: PlayLevel: Blueprint regeneration took 132 ms (1 blueprints)
+[2023.12.16-00.49.06:970][919]PIE: New page: PIE session: Level_1 (16 груд. 2023 р., 02:49:06)
+[2023.12.16-00.49.06:970][919]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2023.12.16-00.49.06:975][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004031s)
+[2023.12.16-00.49.06:976][919]LogAIModule: Creating AISystem for world Level_1
+[2023.12.16-00.49.06:976][919]LogPlayLevel: PIE: World Init took: (0.002043s)
+[2023.12.16-00.49.06:977][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.006286s)
+[2023.12.16-00.49.07:037][919]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.12.16-00.49.07:037][919]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.16-00.49.07:037][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.16-00.49.07:037][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.16-00.49.07:037][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.16-00.49.07:037][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.16-00.49.07:037][919]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.16-00.49.07:037][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.16-00.49.07:037][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.16-00.49.07:037][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.16-00.49.07:038][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.16-00.49.07:038][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.16-00.49.07:038][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.16-00.49.07:038][919]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.16-00.49.07:040][919]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.16-00.49.07:040][919]LogAudioMixer: Display: 1: FrontRight
+[2023.12.16-00.49.07:066][919]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.12.16-00.49.07:067][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.16-00.49.07:067][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.16-00.49.07:067][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.16-00.49.07:067][919]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.16-00.49.07:068][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.16-00.49.07:068][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.16-00.49.07:070][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.16-00.49.07:070][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.16-00.49.07:070][919]LogInit: FAudioDevice initialized.
+[2023.12.16-00.49.07:070][919]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_1'.
+[2023.12.16-00.49.07:086][919]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.12.16-00.49.07:087][919]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.12.16-01.49.07
+[2023.12.16-00.49.07:088][919]LogWorld: Bringing up level for play took: 0.001299
+[2023.12.16-00.49.07:089][919]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.12.16-00.49.07:094][919]PIE: Server logged in
+[2023.12.16-00.49.07:095][919]PIE: Play in editor total start time 0,259 seconds.
+[2023.12.16-00.49.19:402][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.49.19:402][623]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_1
+[2023.12.16-00.49.19:402][623]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.16-00.49.19:403][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.49.19:415][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.16-00.49.19:422][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.49.19:476][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.49.19:476][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.49.19:478][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.49.19:491][623]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2023.12.16-00.49.19:526][624]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.12.16-00.49.43:772][807]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.12.16-00.49.45:318][882]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.12.16-00.49.46:068][919]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2023.12.16-00.49.47:337][981]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.12.16-00.49.47:905][  8]LogEditorViewport: Clicking on Actor (LMB): BP_Spider_C (BP_Spider)
+[2023.12.16-00.49.51:319][151]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.49.51:339][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.16-00.49.51:341][151]PIE: New page: PIE session: Level_1 (16 груд. 2023 р., 02:49:51)
+[2023.12.16-00.49.51:341][151]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2023.12.16-00.49.51:344][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004290s)
+[2023.12.16-00.49.51:347][151]LogAIModule: Creating AISystem for world Level_1
+[2023.12.16-00.49.51:347][151]LogPlayLevel: PIE: World Init took: (0.002556s)
+[2023.12.16-00.49.51:347][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.007088s)
+[2023.12.16-00.49.51:415][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.12.16-00.49.51:420][151]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.16-00.49.51:420][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.16-00.49.51:420][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.16-00.49.51:420][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.16-00.49.51:420][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.16-00.49.51:420][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.16-00.49.51:420][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.16-00.49.51:420][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.16-00.49.51:420][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.16-00.49.51:421][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.16-00.49.51:421][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.16-00.49.51:421][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.16-00.49.51:421][151]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.16-00.49.51:424][151]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.16-00.49.51:424][151]LogAudioMixer: Display: 1: FrontRight
+[2023.12.16-00.49.51:448][151]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.12.16-00.49.51:448][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.16-00.49.51:448][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.16-00.49.51:448][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.16-00.49.51:449][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.16-00.49.51:449][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.16-00.49.51:449][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.16-00.49.51:452][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.16-00.49.51:452][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.16-00.49.51:452][151]LogInit: FAudioDevice initialized.
+[2023.12.16-00.49.51:452][151]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_1'.
+[2023.12.16-00.49.51:464][151]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.12.16-00.49.51:464][151]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.12.16-01.49.51
+[2023.12.16-00.49.51:466][151]LogWorld: Bringing up level for play took: 0.001294
+[2023.12.16-00.49.51:466][151]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.12.16-00.49.51:472][151]PIE: Server logged in
+[2023.12.16-00.49.51:473][151]PIE: Play in editor total start time 0,14 seconds.
+[2023.12.16-00.50.02:974][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.50.02:974][806]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_1
+[2023.12.16-00.50.02:975][806]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.16-00.50.02:976][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.50.02:990][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.16-00.50.03:056][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.50.03:113][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.50.03:113][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.50.03:115][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.50.03:125][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.12.16-00.50.03:183][807]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.12.16-00.51.05:621][276]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2023.12.16-00.51.05:639][276]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/Level_1_Auto2412BC0314BD2656544446DB3184B98BC.tmp' to '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/Autosaves/Game/Level_1_Auto2.umap'
+[2023.12.16-00.51.05:642][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level_1' took 0.089
+[2023.12.16-00.51.05:642][276]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2023.12.16-00.51.05:643][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Actors/BP_Spider] ([2] browsable assets)...
+[2023.12.16-00.51.05:665][276]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Spider.BP_Spider]
+[2023.12.16-00.51.05:665][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Spider]
+[2023.12.16-00.51.05:733][276]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/BP_Spider_Auto23D482EFE4C89EC73D849DBA395911811.tmp' to '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/Autosaves/Game/Blueprints/Actors/BP_Spider_Auto2.uasset'
+[2023.12.16-00.51.05:736][276]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Enemy_Great_Spider/Animations/AB_Spider] ([2] browsable assets)...
+[2023.12.16-00.51.05:755][276]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Enemy_Great_Spider/Animations/AB_Spider.AB_Spider]
+[2023.12.16-00.51.05:755][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy_Great_Spider/Animations/AB_Spider]
+[2023.12.16-00.51.05:810][276]LogSavePackage: Moving '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/AB_Spider_Auto2FEE1EB9B452B4DE466771496E9DABD37.tmp' to '../../../../../../Users/Hanna/Desktop/SpaceShooter/SpaceShooter_HannaHolovenkina/HannaHolovenkina_3/Saved/Autosaves/Game/Characters/Enemy_Great_Spider/Animations/AB_Spider_Auto2.uasset'
+[2023.12.16-00.51.05:813][276]LogFileHelpers: Auto-saving content packages took 0.170
+[2023.12.16-00.52.54:317][221]BlueprintLog: New page: Compile BP_Spider
+[2023.12.16-00.52.54:580][221]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2023.12.16-00.52.56:096][281]LogTemp: Repeating last play command: Selected Viewport
+[2023.12.16-00.52.56:113][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.16-00.52.56:114][281]PIE: New page: PIE session: Level_1 (16 груд. 2023 р., 02:52:56)
+[2023.12.16-00.52.56:114][281]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_1
+[2023.12.16-00.52.56:122][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008530s)
+[2023.12.16-00.52.56:125][281]LogAIModule: Creating AISystem for world Level_1
+[2023.12.16-00.52.56:125][281]LogPlayLevel: PIE: World Init took: (0.003026s)
+[2023.12.16-00.52.56:125][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_1.Level_1 to /Game/UEDPIE_0_Level_1.Level_1 (0.011828s)
+[2023.12.16-00.52.56:194][281]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2023.12.16-00.52.56:196][281]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.16-00.52.56:196][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.16-00.52.56:196][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.16-00.52.56:196][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.16-00.52.56:196][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.16-00.52.56:196][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.12.16-00.52.56:196][281]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.16-00.52.56:196][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.12.16-00.52.56:196][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.16-00.52.56:196][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.16-00.52.56:196][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.16-00.52.56:198][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.16-00.52.56:198][281]LogAudioMixer: Display: Initializing audio mixer.
+[2023.12.16-00.52.56:199][281]LogAudioMixer: Display: 0: FrontLeft
+[2023.12.16-00.52.56:199][281]LogAudioMixer: Display: 1: FrontRight
+[2023.12.16-00.52.56:226][281]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2023.12.16-00.52.56:227][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.16-00.52.56:227][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.16-00.52.56:227][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.16-00.52.56:227][281]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.12.16-00.52.56:227][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.12.16-00.52.56:228][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.12.16-00.52.56:229][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.12.16-00.52.56:229][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.12.16-00.52.56:229][281]LogInit: FAudioDevice initialized.
+[2023.12.16-00.52.56:229][281]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_1'.
+[2023.12.16-00.52.56:243][281]LogLoad: Game class is 'BP_TopDownShooterGameMode_01_C'
+[2023.12.16-00.52.56:245][281]LogWorld: Bringing World /Game/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 60) at 2023.12.16-01.52.56
+[2023.12.16-00.52.56:245][281]LogWorld: Bringing up level for play took: 0.001439
+[2023.12.16-00.52.56:246][281]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.12.16-00.52.56:251][281]PIE: Server logged in
+[2023.12.16-00.52.56:253][281]PIE: Play in editor total start time 0,142 seconds.
+[2023.12.16-00.53.13:482][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.53.13:482][257]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level_1
+[2023.12.16-00.53.13:482][257]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2023.12.16-00.53.13:483][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.53.13:511][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.16-00.53.13:578][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.16-00.53.13:634][257]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.16-00.53.13:635][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.53.13:637][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.12.16-00.53.13:640][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.16-00.53.13:647][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2023.12.16-00.53.13:706][258]LogPlayLevel: Display: Destroying online subsystem :Context_27
